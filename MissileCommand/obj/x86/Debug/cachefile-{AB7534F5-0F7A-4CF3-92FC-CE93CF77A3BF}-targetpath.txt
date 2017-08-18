@@ -1,0 +1,7 @@
+Content\GameFont.xnb
+Content\spr_background.xnb
+Content\spr_cannon.xnb
+Content\spr_crosshair.xnb
+Content\spr_dotgreen.xnb
+Content\spr_dotred.xnb
+Content\spr_explosion.xnb
